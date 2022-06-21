@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ratihrdlyh/dashboard-kemiskinan-dan-ketimpangan-Provinsi-Indonesia">
+  <a href="https://public.tableau.com/app/profile/ratih.rodliyah/viz/KemisikinanIndonesiaTahun2016-2021/Dashboard1?publish=yes">
     <img src="images/dashboarrd.png" alt="Logo">
   </a>
 
@@ -180,7 +180,7 @@ Berikut contoh implementasi dashboard interaktif pada Tableau Public.
 <img src="images/imp.png" alt="implementasi">
 </div>
 
-Untuk menggunakan _Dashboard_ secara langsung, dapat mengakses link : [https://s.stis.ac.id/dashboard221910990](https://s.stis.ac.id/dashboard221910990)_
+Untuk menggunakan _Dashboard_ secara langsung, dapat mengakses link : [https://s.stis.ac.id/dashboard221910990](https://s.stis.ac.id/dashboard221910990)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
