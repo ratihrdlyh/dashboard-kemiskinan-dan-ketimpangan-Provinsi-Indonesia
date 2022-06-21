@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ratihrdlyh/dashboard-kemiskinan-dan-ketimpangan-Provinsi-Indonesia">
-    <img src="images/dashboarrd.png" alt="Logo" width="120" height="120">
+    <img src="images/dashboarrd.png" alt="Logo" width="180" height="180">
   </a>
 
   <h3 align="center">Dashboard Kemiskinan dan Ketimpangan Provinsi d Indonesia</h3>
